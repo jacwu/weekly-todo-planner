@@ -1,0 +1,51 @@
+{
+  "monday": [
+    "Review weekly goals",
+    "Team meeting preparation",
+    "Check emails",
+    "Plan day schedule",
+    "Exercise - Morning run"
+  ],
+  "tuesday": [
+    "Project review",
+    "Client calls",
+    "Update documentation",
+    "Code review session",
+    "Grocery shopping"
+  ],
+  "wednesday": [
+    "Mid-week planning",
+    "Design mockup review",
+    "Database optimization",
+    "Team standup",
+    "Meal prep"
+  ],
+  "thursday": [
+    "Performance testing",
+    "User feedback analysis",
+    "Sprint retrospective prep",
+    "Personal development reading",
+    "Clean workspace"
+  ],
+  "friday": [
+    "Week wrap-up",
+    "Deploy to production",
+    "Team retrospective",
+    "Plan weekend activities",
+    "Social activities"
+  ],
+  "saturday": [
+    "Home maintenance",
+    "Family time",
+    "Personal projects",
+    "Outdoor activities",
+    "Relaxation time"
+  ],
+  "sunday": [
+    "Week preparation",
+    "Meal planning",
+    "Laundry",
+    "Reading time",
+    "Self-care activities"
+  ]
+}
