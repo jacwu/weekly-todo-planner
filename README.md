@@ -1,23 +1,45 @@
-# ✨ Welcome to Your Spark Template!
-You've just launched your brand-new Spark Template Codespace — everything’s fired up and ready for you to explore, build, and create with Spark!
+# Weekly Todo Planner
 
-This template is your blank canvas. It comes with a minimal setup to help you get started quickly with Spark development.
+A clean and organized weekly task management application built with React, TypeScript, and Vite.
 
-🚀 What's Inside?
-- A clean, minimal Spark environment
-- Pre-configured for local development
-- Ready to scale with your ideas
-  
-🧠 What Can You Do?
+## Features
 
-Right now, this is just a starting point — the perfect place to begin building and testing your Spark applications.
+- **Weekly Organization**: Clear layout that organizes tasks by day of the week
+- **Persistent Storage**: All progress is saved locally using browser localStorage
+- **Task Completion**: Simple checkbox interface for marking tasks as complete
+- **Responsive Design**: Works seamlessly on desktop and mobile devices
+- **Clean UI**: Minimal, productivity-focused design using GitHub's Spark design system
 
-🧹 Just Exploring?
-No problem! If you were just checking things out and don’t need to keep this code:
+## Live Demo
 
-- Simply delete your Spark.
-- Everything will be cleaned up — no traces left behind.
+The application is automatically deployed to GitHub Pages: [https://jacwu.github.io/weekly-todo-planner/](https://jacwu.github.io/weekly-todo-planner/)
 
-📄 License For Spark Template Resources 
+## Local Development
+
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Build for production:
+   ```bash
+   npm run build
+   ```
+
+4. Preview the production build:
+   ```bash
+   npm run preview
+   ```
+
+## Deployment
+
+The project is configured with GitHub Actions to automatically deploy to GitHub Pages when changes are pushed to the main branch.
+
+## License
 
 The Spark Template files and resources from GitHub are licensed under the terms of the MIT license, Copyright GitHub, Inc.
