@@ -76,7 +76,7 @@ function App() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-7 gap-4">
           {DAYS_OF_WEEK.map((day, dayIndex) => (
-            <Card key={day} className="h-fit">
+            <Card key={day} className="h-96">
               <CardHeader className="pb-3">
                 <div className="flex items-center justify-between">
                   <CardTitle className="text-lg font-semibold text-secondary-foreground">
